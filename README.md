@@ -3,5 +3,6 @@
 
 Запустить не скачивая можно так:
 iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/vsingur/CryptoProAfterSysUpdatesFix/master/CryptoProAfterUpdatesFix.ps1'))
+Запускать конечно же необходимо в консоли Powershell с административными правами.
 
 Метод запуска подсмотрен у chocolatey  https://chocolatey.org/  
